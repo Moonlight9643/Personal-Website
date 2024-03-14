@@ -2,5 +2,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-image: url(Sammy.png);
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
 }
