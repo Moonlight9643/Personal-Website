@@ -98,3 +98,46 @@ nav .nav-list li.btn:hover a {
   border: 2px solid transparent;
   transition: 0.4s;
 }
+.container {
+  padding-top: 190px;
+}
+.container .hero-text {
+  margin-top: 80px;
+}
+.container .hero-text h1 {
+  color: white;
+  font-size: 47px;
+  font-weight: 900;
+  line-height: 1.2;
+  margin: 20px 0px 20px;
+}
+span {
+  color: #2ecc71;
+}
+.container .hero-text h3 {
+  color: #eee;
+  font-weight: 400;
+  font-size: 17px;
+}
+.container .hero-text p {
+  color: #eee;
+  max-width: 100%;
+  width: 440px;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+.social a {
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 17px;
+  color: #eee;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-bottom: 35px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
